@@ -54,27 +54,41 @@ ClickDesk/
 
 ---
 
-## ▶️ Como Rodar o Projeto
+## 🗓️ Cronograma de Sprints
+
+| Sprint   | Período       | Documentação        |
+|---------|----------------|---------------------|
+| SPRINT 1 | 10/03 - 30/03 | [Sprint 1 Docs](#)  |
+| SPRINT 2 | 07/04 - 27/04 | [Sprint 2 Docs](#)  |
+| SPRINT 3 | 05/05 - 25/05 | [Sprint 3 Docs](#)  |
+
+> Substitua os links (#) pelos URLs reais da documentação de cada sprint.
+
+---
+
+## 💻 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-02C39A?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📘 Manual de Instalação
 
 ### 🔧 Pré-requisitos
-- Node.js (v18+)
-- SQL Server
-- Git
 
-### 📌 Clonar Repositório
-```bash
-git clone https://github.com/SeuUsuario/ClickDesk.git
-cd ClickDesk
-
-
-cd backend
-npm install
-npm run dev
-
-
-cd frontend
-npm install
-npm start
+- Git ([Download](https://git-scm.com/downloads))
+- Python 3.9+ ([Download](https://www.python.org/downloads/))
+- Node.js 16+ ([Download](https://nodejs.org/en/download/))
+- Poetry (opcional para o backend) ([Download](https://python-poetry.org/docs/#installation))
 
 
 ✅ Funcionalidades
@@ -103,16 +117,3 @@ Kaíque Loamir Siqueira Uchoa – RA: G9834H9
 Vinicius de Andrade Fagundes – RA: G989CE5
 
 
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE
- para mais detalhes.
-
-
-Referências
-
-Larman, Craig. Utilizando UML e padrões. Bookman, 2007.
-
-Pressman, Roger. Engenharia de Software. McGraw-Hill, 2016.
-
-Russell, Stuart; Norvig, Peter. Inteligência Artificial. Elsevier, 2013.
-
-Lei nº 13.709/2018 – Lei Geral de Proteção de Dados (LGPD).
