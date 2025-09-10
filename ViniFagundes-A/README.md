@@ -68,15 +68,10 @@ ClickDesk/
 
 ## 💻 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-02C39A?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019%2B-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white)
+![Astah](https://img.shields.io/badge/Astah-0A95FF?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -86,10 +81,11 @@ ClickDesk/
 ### 🔧 Pré-requisitos
 
 - Git ([Download](https://git-scm.com/downloads))
-- Python 3.9+ ([Download](https://www.python.org/downloads/))
-- Node.js 16+ ([Download](https://nodejs.org/en/download/))
-- Poetry (opcional para o backend) ([Download](https://python-poetry.org/docs/#installation))
-
+- .NET SDK 8.0+ ([Download](https://dotnet.microsoft.com/download))
+- SQL Server 2019+ ou SQL Server Express ([Download](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads))
+- (Opcional) Visual Studio 2022 ou VS Code + C# Dev Kit  
+  - Visual Studio 2022 Community ([Download](https://visualstudio.microsoft.com/pt-br/vs/))
+  - VS Code ([Download](https://code.visualstudio.com/)) + extensão [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
 ✅ Funcionalidades
 
